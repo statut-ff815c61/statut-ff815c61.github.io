@@ -1,0 +1,92 @@
+{
+ "etat": "ok",
+ "plex": true,
+ "live": false,
+ "recents": [
+  {
+   "titre": "Les Choristes",
+   "detail": "2004",
+   "type": "Film",
+   "ajoute": "2026-10-25",
+   "affiche": "affiches/0d05d8972475.jpg"
+  },
+  {
+   "titre": "Là-haut",
+   "detail": "2009",
+   "type": "Film",
+   "ajoute": "2026-10-25",
+   "affiche": "affiches/5bc74ba75288.jpg"
+  },
+  {
+   "titre": "Le Jeu de la dame",
+   "detail": "Saison unique",
+   "type": "Série",
+   "ajoute": "2026-10-25",
+   "affiche": "affiches/3b7847e68193.jpg"
+  },
+  {
+   "titre": "Earl",
+   "detail": "Saison 3",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/6faf05d91a69.jpg"
+  },
+  {
+   "titre": "Scorpion",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/d5911b790fa2.jpg"
+  },
+  {
+   "titre": "Under the Dome",
+   "detail": "Saison 3 · épisode 2",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/e040f82fa619.jpg"
+  },
+  {
+   "titre": "Silicon Valley",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-10-22",
+   "affiche": "affiches/14f15d7c4214.jpg"
+  },
+  {
+   "titre": "The Love Hypothesis",
+   "detail": "2026",
+   "type": "Film",
+   "ajoute": "2026-10-12",
+   "affiche": "affiches/360654b38c83.jpg"
+  },
+  {
+   "titre": "The Originals",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/8ba8f551346c.jpg"
+  },
+  {
+   "titre": "The Rookie : Le Flic de Los Angeles",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/714e55027a2e.jpg"
+  },
+  {
+   "titre": "Sorcières Academy",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/449f21358dec.jpg"
+  },
+  {
+   "titre": "Vampire Diaries",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/cdb7b256005e.jpg"
+  }
+ ],
+ "maj": "2026-10-31T18:45:20+00:00"
+}
