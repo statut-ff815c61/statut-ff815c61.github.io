@@ -1,0 +1,92 @@
+{
+ "etat": "ok",
+ "plex": true,
+ "live": false,
+ "recents": [
+  {
+   "titre": "Person of Interest",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-11-14",
+   "affiche": "affiches/0451f31cdb18.jpg"
+  },
+  {
+   "titre": "Là-haut",
+   "detail": "2009",
+   "type": "Film",
+   "ajoute": "2026-11-01",
+   "affiche": "affiches/df0bb090ae0a.jpg"
+  },
+  {
+   "titre": "Les Choristes",
+   "detail": "2004",
+   "type": "Film",
+   "ajoute": "2026-11-01",
+   "affiche": "affiches/94da6cb0f355.jpg"
+  },
+  {
+   "titre": "Le Jeu de la dame",
+   "detail": "Saison unique",
+   "type": "Série",
+   "ajoute": "2026-10-25",
+   "affiche": "affiches/3b7847e68193.jpg"
+  },
+  {
+   "titre": "Earl",
+   "detail": "Saison 3",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/6faf05d91a69.jpg"
+  },
+  {
+   "titre": "Scorpion",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/d5911b790fa2.jpg"
+  },
+  {
+   "titre": "Under the Dome",
+   "detail": "Saison 3 · épisode 2",
+   "type": "Série",
+   "ajoute": "2026-10-24",
+   "affiche": "affiches/e040f82fa619.jpg"
+  },
+  {
+   "titre": "Silicon Valley",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-10-22",
+   "affiche": "affiches/14f15d7c4214.jpg"
+  },
+  {
+   "titre": "The Love Hypothesis",
+   "detail": "2026",
+   "type": "Film",
+   "ajoute": "2026-10-12",
+   "affiche": "affiches/eeb8dd21c508.jpg"
+  },
+  {
+   "titre": "Marvel : Les Agents du S.H.I.E.L.D.",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/58f1fbc97f74.jpg"
+  },
+  {
+   "titre": "Sorcières Academy",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/449f21358dec.jpg"
+  },
+  {
+   "titre": "The Originals",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-10-11",
+   "affiche": "affiches/8ba8f551346c.jpg"
+  }
+ ],
+ "maj": "2026-11-14T21:50:22+00:00"
+}
