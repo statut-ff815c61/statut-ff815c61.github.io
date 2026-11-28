@@ -1,0 +1,92 @@
+{
+ "etat": "ok",
+ "plex": true,
+ "live": false,
+ "recents": [
+  {
+   "titre": "Moon: La Face cachée",
+   "detail": "2009",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/acb83efe80b0.jpg"
+  },
+  {
+   "titre": "Exhuma",
+   "detail": "2024",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/7d7e15277304.jpg"
+  },
+  {
+   "titre": "L'Apprenti sorcier",
+   "detail": "2010",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/8d617c4efaf8.jpg"
+  },
+  {
+   "titre": "Off Campus",
+   "detail": "Saison 1",
+   "type": "Série",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/3ab7d6dbd294.jpg"
+  },
+  {
+   "titre": "Projet Dernière Chance",
+   "detail": "2026",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/8f4c6198d116.jpg"
+  },
+  {
+   "titre": "Boss Level",
+   "detail": "2021",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/264d09590197.jpg"
+  },
+  {
+   "titre": "Identité secrète",
+   "detail": "2011",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/e8d7a87f8e8f.jpg"
+  },
+  {
+   "titre": "Yes, God, Yes",
+   "detail": "2020",
+   "type": "Film",
+   "ajoute": "2026-11-28",
+   "affiche": "affiches/fde5c549fabc.jpg"
+  },
+  {
+   "titre": "Person of Interest",
+   "detail": "Nouvelle série",
+   "type": "Série",
+   "ajoute": "2026-11-14",
+   "affiche": "affiches/0451f31cdb18.jpg"
+  },
+  {
+   "titre": "Là-haut",
+   "detail": "2009",
+   "type": "Film",
+   "ajoute": "2026-11-01",
+   "affiche": "affiches/df0bb090ae0a.jpg"
+  },
+  {
+   "titre": "Les Choristes",
+   "detail": "2004",
+   "type": "Film",
+   "ajoute": "2026-11-01",
+   "affiche": "affiches/94da6cb0f355.jpg"
+  },
+  {
+   "titre": "Le Jeu de la dame",
+   "detail": "Saison unique",
+   "type": "Série",
+   "ajoute": "2026-10-25",
+   "affiche": "affiches/3b7847e68193.jpg"
+  }
+ ],
+ "maj": "2026-11-28T21:10:28+00:00"
+}
